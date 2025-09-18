@@ -1,5 +1,5 @@
 # FreeCAD_examples
-I plan to put all my FreeCAD projects I create here, my first being a PCP air rifle that shoots peas or most any round projectiles 8mm or less.  
+I plan to put all my FreeCAD projects I create here, my first being a PCP air gun that shoots peas or most any round projectiles 8mm or less.  
 
 This is the first time I ever tried FreeCAD that with about a one week learning curve this is what I was finally able to produce.  I have to admit that I got stuck for a few days and almost gave it up.  But after I firgured out that you need to add planes that you add on top of your objects to add or subtract to and from them.  These planes can be added at any angle and can be moved in it's relitive x/y plane to add new scetches that are paded to add and pocked to remove material like an extrution.   After I firgured this out it all fell together with little effort.  I also found a lot of support on youtube for any questions I had I found very good examples of how things could be done.  So when in dought check out some of the youtube videos on FreeCAD.
 
